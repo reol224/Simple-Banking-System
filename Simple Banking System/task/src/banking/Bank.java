@@ -28,7 +28,65 @@ public class Bank {
                 "0. Exit");
     }
 
-    
+    public String visaCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String visa16 = mockNeat.creditCards().type(VISA_16).val();
+        return visa16;
+    }
+
+    public String americanExpressCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String americanExpress = mockNeat.creditCards().type(AMERICAN_EXPRESS).val();
+        return americanExpress;
+    }
+
+    public String chinaUnionPayCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String chinaUnionPay = mockNeat.creditCards().type(CHINA_UNION_PAY_16).val();
+        return chinaUnionPay;
+    }
+
+    public String dinersClubCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String dinersClub = mockNeat.creditCards().type(DINERS_CLUB_INTERNATIONAL).val();
+        return dinersClub;
+    }
+
+    public String discoverCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String discover = mockNeat.creditCards().type(DISCOVER_16).val();
+        return discover;
+    }
+
+    public String interPaymentCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String interPayment = mockNeat.creditCards().type(INTER_PAYMENT_16).val();
+        return interPayment;
+    }
+
+    public String instaPaymentCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String instaPayment = mockNeat.creditCards().type(INSTA_PAYMENT).val();
+        return instaPayment;
+    }
+
+    public String jcbCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String jcb = mockNeat.creditCards().type(JCB).val();
+        return jcb;
+    }
+
+    public String maestroCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String maestro = mockNeat.creditCards().type(MAESTRO_16).val();
+        return maestro;
+    }
+
+    public String mastercardCard(){
+        MockNeat mockNeat = MockNeat.secure();
+        String mastercard = mockNeat.creditCards().type(MASTERCARD).val();
+        return mastercard;
+    }
 
     public void createAccount() {
         Account account = Account.createNewAccount();

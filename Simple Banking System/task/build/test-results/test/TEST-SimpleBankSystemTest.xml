@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleBankSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-03T15:08:24" hostname="DESKTOP-IUMORH4" time="2.031">
+  <properties/>
+  <testcase name="start" classname="SimpleBankSystemTest" time="2.031"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 2?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 3?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 4?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 5?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000006959417691
+Your card PIN:
+6342
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000001684066392
+Your card PIN:
+7627
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000006568481385
+Your card PIN:
+8655
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000009428708161
+Your card PIN:
+3947
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 6?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000007688480018
+Your card PIN:
+9359
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000007688480018
+Enter your PIN:
+> 9359
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 7?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000007536274027
+Your card PIN:
+4338
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000007536274027
+Enter your PIN:
+> 7382
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 8?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000009882848008
+Your card PIN:
+2119
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 400000361296649
+Enter your PIN:
+> 2119
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 9?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000008754189038
+Your card PIN:
+1078
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000008754189038
+Enter your PIN:
+> 1078
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 1
+Balance: 0
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 10?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000005091401647
+Your card PIN:
+6124
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000005091401647
+Enter your PIN:
+> 6124
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income:
+> 10000
+An SQLException occurred: database in auto-commit mode
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income:
+> 15000
+An SQLException occurred: database in auto-commit mode
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 11?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+An SQLException occurred: database in auto-commit mode
+Your card has been created
+Your card number:
+4000006740558589
+Your card PIN:
+7201
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000006740558589
+Enter your PIN:
+> 7201
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 4
+An SQLException occurred: database in auto-commit mode
+You have successfully logged out!
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Banking_System.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Banking_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Simple_Banking_System.Problems-Find_the_seed.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gaussian random numbers/Simple_Banking_System.Problems-Gaussian_random_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generate random numbers/Simple_Banking_System.Problems-Generate_random_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Simple_Banking_System.Problems-Move_the_first_N_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,6 +1,7 @@
 # Banking Management System
 
 A banking management system that started as a project for learning SQL.
+Also a HyperSkill project from my early days.
 
 # Features
 - Uses a database (SQLite)
